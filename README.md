@@ -16,4 +16,18 @@ This repo contains starter code for Reaect using Vite to demonstrate how Twin Fo
 > npm i twin.macro
 ```
 
-3. 
+3. Update twinFold.regex setting to the following:
+
+```
+{
+    "inlineFold.regex": "(tw)=(({(`|))|(['\"`]))(.*?)(\\2|(\\4)})"
+}
+```
+
+4. Add Tailwind classes to your JSX/TSX code using the following:
+
+```
+<h1 tw="text-sm"...
+```
+
+5. Enjoy folded Tailwind classes while maintaining visibility of your own classes.
