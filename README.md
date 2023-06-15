@@ -16,6 +16,11 @@ This repo contains starter code for Reaect using Vite to demonstrate how Twin Fo
 > npm i twin.macro
 ```
 
+2.1 Import to Twin:
+```
+import 'twin.macro'
+```
+
 3. Update twinFold.regex setting to the following:
 
 ```
