@@ -35,4 +35,6 @@ import 'twin.macro'
 <h1 tw="text-sm"...
 ```
 
-5. Enjoy folded Tailwind classes while maintaining visibility of your own classes.
+5. (Optional) Tweak additional VSCode Inline Fold settings to suit your preferences.
+
+6. Enjoy folded Tailwind classes while maintaining visibility of your own classes!
