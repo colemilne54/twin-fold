@@ -2,6 +2,8 @@
 
 ### Hides the verbosity of Tailwind classes while still keeping your custom classes visible
 
+![twin fold gif](https://raw.githubusercontent.com/colemilne54/twin-fold/1aa5c57e6bbd8b1434c200f7769c98f6c9c2c185/src/assets/twin-fold.gif)
+
 This repo contains starter code for React using Vite to demonstrate how Twin Fold is implemented.
 
 ## Getting Started:
