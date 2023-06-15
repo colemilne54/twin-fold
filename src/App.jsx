@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1 tw="text-sm" className="my-class">Vite + React</h1>
+      <h1 tw="text-sm hover:border font-medium	text-center	overline" className="my-class">Hello, World! I am Twin Fold</h1>
     </>
   )
 }
